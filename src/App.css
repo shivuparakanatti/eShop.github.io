@@ -1,0 +1,28 @@
+.itemContaner{
+    display : grid;
+    grid-template-columns :repeat(4,auto);
+
+    column-gap : 20px;
+    row-gap : 30px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.buttons{
+    padding:5px;
+    margin: 10px;
+}
+
+li{
+    text-decoration: none;
+}
+
+Link{
+    color: black;
+}
+
+
+
+
