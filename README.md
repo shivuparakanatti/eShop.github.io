@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+This Code is deployed using vercel
+https://eshop-murex.vercel.app/
 
 In the project directory, you can run:
 
