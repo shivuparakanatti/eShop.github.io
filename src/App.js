@@ -15,7 +15,6 @@ import Cart from './components/Cart';
 function App() {
 
   const user = useSelector((state)=>{
-    
    const userDetails = state.register
   
    localStorage.setItem('reduxuser',JSON.stringify(userDetails))
